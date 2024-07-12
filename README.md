@@ -14,4 +14,4 @@ Netflix alternative ( btw Netflix is boycotted ) for cats,  Meow !!.
 
 
 
-#### **Warning: Don't Distribute This App Without Crediting Original Authors.**
+#### **Warning: Don't Distribute This App Without Crediting Original Developer ( Ahmed Elessawy ).**
